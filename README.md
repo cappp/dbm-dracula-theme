@@ -1,4 +1,4 @@
-# DBM Dracula Theme
+# 🧛‍♂️ DBM Dracula Theme
 
 > [Download](https://github.com/CapOliveiraBr/DBM-Dracula-Theme/archive/master.zip)
 
