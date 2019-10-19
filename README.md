@@ -1,2 +1,5 @@
-# DBM-Dracula-Theme
-DBM Theme based on the original Dracula color theme.
+# DBM Dracula Theme
+
+> Preview:
+
+<img src="https://i.imgur.com/QQOlyCf.gif">
